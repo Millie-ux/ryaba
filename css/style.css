@@ -1,0 +1,35 @@
+@font-face {
+    src: url('../fonts/Caveat/Caveat-Bold.ttf');
+    font-family: "Caveat-Bold";
+}
+
+@font-face {
+    src: url('../fonts/Commissioner/Commissioner-Medium.ttf');
+    font-family: "Commissioner";
+}
+.all {
+    display: flex;
+}
+
+.all_var {
+    flex-direction: column;
+}
+
+h4 {
+    font-family: 'Commissioner';
+}
+
+.btn_1 {
+    padding: 5px 5px 5px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.btn_2 {
+    padding: 5px 5px 5px;
+}
+
+.text {
+    margin-left: 200px;   
+    font-family: 'Commissioner';
+}
